@@ -84,10 +84,10 @@ comprehension of text. In Empirical Methods in
 Natural Language Processing (EMNLP), pages 193–
 203.</span>
 
-[3] <span id="ref3">D. Chen, J. Bolton, and C. D. Manning. 2016. A
-thorough examination of the CNN / Daily Mail reading
-comprehension task. In Association for Computational
-Linguistics (ACL).</span>
+[3] <span id="ref3">K. M. Hermann, T. Kocisk ˇ y, E. Grefenstette, L. Espeholt, ´
+W. Kay, M. Suleyman, and P. Blunsom. 2015. Teaching
+machines to read and comprehend. In Advances in
+Neural Information Processing Systems (NIPS).</span>
 
 [4] <span id="ref4">D. Chen, J. Bolton, and C. D. Manning. 2016. A
 thorough examination of the CNN / Daily Mail reading
