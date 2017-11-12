@@ -5,7 +5,6 @@ Wikipedia QA in Chinese
 **[中文维基百科问答语料采集项目](http://blank)**
 	
 ![Stage](https://img.shields.io/badge/阶段-数据采集-green.svg)
-
 ![Progress](http://progressed.io/bar/0?title=Progress)
 	
 ## 项目计划
