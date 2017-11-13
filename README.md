@@ -9,12 +9,12 @@ Wikipedia QA in Chinese
 
 ## WQAC vs SQuAD
 
-  <b style="color:white">\</b> | WQAC     | SQuAD
+  <p style="color:white">\</p> | WQAC     | SQuAD
 ---|--------- | -------------
 **文本来源**|维基百科（中文）|维基百科（英文）
 **段落数**|46000+ | 20000+
 **每段问题数**|8～10 | 3～5
-**问题改述\***|<b style="color:green">✔︎</b>|<b style="color:red">✘</b>
+**问题改述\***|<p style="color:green">✔︎</p>|<p style="color:red">✘</p>
 
 
 
