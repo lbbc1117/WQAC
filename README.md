@@ -9,12 +9,12 @@ Wikipedia QA in Chinese
 
 ## WQAC vs SQuAD
 
-   | WQAC     | SQuAD
+  <span style="color:white">\</span> | WQAC     | SQuAD
 ---|--------- | -------------
 **文本来源**|维基百科（中文）|维基百科（英文）
 **段落数**|46000+ | 20000+
 **每段问题数**|8～10 | 3～5
-**问题改述\***|<span style="color:green">✔︎</span>|<span style="color:red">✘</span>
+**问题改述\***|<div style="color:green">✔︎</div>|<div style="color:red">✘</div>
 
 ＊ 问题改述 即 Question Paraphrase，采集时要求志愿者将同一问题用不同方式提2次
 
