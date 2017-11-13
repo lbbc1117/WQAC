@@ -9,12 +9,14 @@ Wikipedia QA in Chinese
 
 ## WQAC vs SQuAD
 
-  <span style="color:white"></span> | WQAC     | SQuAD
+  <b style="color:white">\</b> | WQAC     | SQuAD
 ---|--------- | -------------
 **文本来源**|维基百科（中文）|维基百科（英文）
 **段落数**|46000+ | 20000+
 **每段问题数**|8～10 | 3～5
-**问题改述\***|<div style="color:green">✔︎</div>|<div style="color:red">✘</div>
+**问题改述\***|<b style="color:green">✔︎</b>|<b style="color:red">✘</b>
+
+
 
 ＊ 问题改述 即 Question Paraphrase，采集时要求志愿者将同一问题用不同方式提2次
 
@@ -89,27 +91,27 @@ SQuAD 的文本来自于英文维基百科（Wikipedia），每段文本有3～5
 
 ### 参考文献
 
-[1] <span id="ref1">Rajpurkar et al. Squad: 100,000+ questions for machine comprehension of text. arXiv2016.</span>
+<p id="ref1">[1] Rajpurkar et al. Squad: 100,000+ questions for machine comprehension of text. arXiv2016.</p>
 
-[2] <span id="ref2">M. Richardson, C. J. Burges, and E. Renshaw. 2013.
+<p id="ref2">[2] M. Richardson, C. J. Burges, and E. Renshaw. 2013.
 Mctest: A challenge dataset for the open-domain machine
 comprehension of text. In Empirical Methods in
 Natural Language Processing (EMNLP), pages 193–
-203.</span>
+203.</p>
 
-[3] <span id="ref3">K. M. Hermann, T. Kocisk ˇ y, E. Grefenstette, L. Espeholt, ´
+<p id="ref3">[3] K. M. Hermann, T. Kocisk ˇ y, E. Grefenstette, L. Espeholt, ´
 W. Kay, M. Suleyman, and P. Blunsom. 2015. Teaching
 machines to read and comprehend. In Advances in
-Neural Information Processing Systems (NIPS).</span>
+Neural Information Processing Systems (NIPS).</p>
 
-[4] <span id="ref4">D. Chen, J. Bolton, and C. D. Manning. 2016. A
+<p id="ref4">[4] D. Chen, J. Bolton, and C. D. Manning. 2016. A
 thorough examination of the CNN / Daily Mail reading
 comprehension task. In Association for Computational
-Linguistics (ACL).</span>
+Linguistics (ACL).</p>
 
-[5] <span id="ref5">S. N. Gaikwad, D. Morina, R. Nistala, M. Agarwal,
+<p id="ref5">[5] S. N. Gaikwad, D. Morina, R. Nistala, M. Agarwal,
 A. Cossette, R. Bhanu, S. Savage, V. Narwal, K. Rajpal,
 J. Regino, et al. 2015. Daemo: A self-governed
 crowdsourcing marketplace. In Proceedings of the
 28th Annual ACM Symposium on User Interface Software
-& Technology, pages 101–102.</span>
+& Technology, pages 101–102.</p>
