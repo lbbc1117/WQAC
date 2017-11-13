@@ -4,8 +4,21 @@ Wikipedia QA in Chinese
 
 **[中文维基百科问答语料采集项目](http://blank)**
 	
-![Stage](https://img.shields.io/badge/阶段-数据采集-green.svg)
+![Stage](https://img.shields.io/badge/当前阶段-数据采集-green.svg)
 ![Progress](http://progressed.io/bar/0?title=Progress)
+
+## WQAC vs SQuAD
+
+ | WQAC | SQuAD
+---|--------- | -------------
+**文本来源**|维基百科（中文）|维基百科（英文）
+**段落数**|46000+ | 20000+
+**每段问题数**|8～10 | 3～5
+**问题改述\***|<span style="color:green">✔︎</span>|<span style="color:red">✘</span>
+
+＊ 问题改述 即 Question Paraphrase，采集时要求志愿者将同一问题用不同方式提2次
+
+
 	
 ## 项目计划
 
