@@ -9,7 +9,7 @@ Wikipedia QA in Chinese
 
 ## WQAC vs SQuAD
 
--  | WQAC     | SQuAD
+  \\ | WQAC     | SQuAD
 ---|--------- | -------------
 **文本来源**|维基百科（中文）|维基百科（英文）
 **段落数**|46000+ | 20000+
