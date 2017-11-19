@@ -133,10 +133,3 @@ Neural Information Processing Systems (NIPS).</p>
 thorough examination of the CNN / Daily Mail reading
 comprehension task. In Association for Computational
 Linguistics (ACL).</p>
-
-<p id="ref5">[5] S. N. Gaikwad, D. Morina, R. Nistala, M. Agarwal,
-A. Cossette, R. Bhanu, S. Savage, V. Narwal, K. Rajpal,
-J. Regino, et al. 2015. Daemo: A self-governed
-crowdsourcing marketplace. In Proceedings of the
-28th Annual ACM Symposium on User Interface Software
-& Technology, pages 101–102.</p>
